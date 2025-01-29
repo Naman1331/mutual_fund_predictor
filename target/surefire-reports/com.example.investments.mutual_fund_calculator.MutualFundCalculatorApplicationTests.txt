@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.investments.mutual_fund_calculator.MutualFundCalculatorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.204 s -- in com.example.investments.mutual_fund_calculator.MutualFundCalculatorApplicationTests
